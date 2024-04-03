@@ -1,8 +1,9 @@
 ### Olá, sou Bryan Theodoro!
 
 - 🌱 Estou cursando Gestão da Tecnologia da Informação.
+- 🗨 Trabalho na Rubeus com Gestão de Produtos
 - 📫 Como chegar até mim:  bryantheodoro@hotmail.com
-- ⚡ Curiosidade: Fascinado em Python e com muita vontade de aprender!
+- ⚡ Curiosidade: Fascinado em dados com Python e SQL e com muita vontade de aprender!
 
 <div align="center">
   <a href="https://github.com/bryanthebem">
